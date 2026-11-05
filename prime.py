@@ -1,5 +1,5 @@
 import math
-
+#此函数判断该数是否为质数
 def is_prime(number):
     if number < 2:
         return True
